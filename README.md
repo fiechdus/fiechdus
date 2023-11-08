@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-![Dusitn's github stats](https://github-readme-stats.vercel.app/api?username=fiechdus&show_icons=true&rank_icon=github&theme=gruvbox_light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiechdus&hide_progress=true&theme=gruvbox_light)
-<!--
-**DustinFiechter/DustinFiechter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fiechdus&show_icons=true&rank_icon=github&theme=gruvbox_light" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiechdus&theme=gruvbox_light&layout=compact&langs_count=8&card_width=220" />
+</a>
+
+<br>
+<br>
+
+About me:
+- 🌱 I’m currently learning **Statistics, Numerical Mathematics, programming with Python**
+- 📫 How to reach me: **Contact me on [LinkedIn](https://www.linkedin.com/in/fiechdus)!**
+- 😄 Pronouns: **he/him**
